@@ -38,8 +38,8 @@ This project demonstrates two main neural network applications:
 
 1. Clone this repository:
 ```bash
-git clone <your-repository-url>
-cd ds_trading/test_keras_regression_classification
+git clone <https://github.com/1NT9NS9/keras-regression-classification.git>
+cd keras-regression-classification
 ```
 
 2. Install dependencies:
